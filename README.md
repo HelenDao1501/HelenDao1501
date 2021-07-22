@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @HelenDao1501 
-- 👀 I’m interested in Front - end, Testing,..
-- <3 I’m currently learning about Software Engineer and Information System (IS).
+- Hi, my name is Tram or you can call me @HelenDao1501 ^ ^
+- 👀 You can know me as a Tester, Front-end Dev. I’m currently learning about Software Engineer and Information System (IS).
+- I'm also an amateur Designer, Content Creator or sometimes being a "night owl" girl.
+- ✨ Interest in drawing, cooking, and doing something new.
 - 📫 You can reach me in this GitHub
 <!---
 HelenDao1501/HelenDao1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
