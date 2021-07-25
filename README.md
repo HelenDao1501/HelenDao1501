@@ -10,7 +10,7 @@
   - **LinkedIn:** [Tram Dao](www.linkedin.com/in/helen-dao)
   - **Facebook:** [Bảo Trâm](https://www.facebook.com/bao.tram.1501/)
 
-###### Grateful for your concern.Hope you're all safe and cheerful 😉 
+###### Grateful for your concern. Hope you're all safe and cheerful 😉 
 
 ![counter](https://enemo786q3svfle.m.pipedream.net)
 
