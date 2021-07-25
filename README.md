@@ -7,7 +7,7 @@
 - ✨ Interest in drawing, coding(sometimes) cooking, and doing something new.
 - 📫 You can reach me in this GitHub
 
-## :postbox: 	
+## :postbox: For more information contact me via: 	
   - **LinkedIn:** [Tram Dao](www.linkedin.com/in/helen-dao)
   - **Facebook:** [Bảo Trâm](https://www.facebook.com/bao.tram.1501/)
 
