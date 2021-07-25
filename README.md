@@ -1,11 +1,10 @@
 ## About me:
 
-- 💁‍♀️ Hi, my name is **Tram-Bao Dao** or known me as **Helen Dao** ^ ^
-- 🔎 I'm currently learning about Software Engineer at **FPTU.HCMC**
+- Hi, my name is **Tram-Bao Dao** or known me as **Helen Dao** ^ ^
+- I'm currently learning about Software Engineer at **FPTU.HCMC**
 - 💻You can know me as a Tester, Front-end Dev.
 - 💤 I'm also an amateur Designer, Content Creator, or being a "night owl" girl.
 - ✨ Interest in drawing, coding(sometimes) cooking, and doing something new.
-- 📫 You can reach me in this GitHub
 
 ## :postbox: For more information contact me via: 	
   - **LinkedIn:** [Tram Dao](www.linkedin.com/in/helen-dao)
