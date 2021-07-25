@@ -1,4 +1,4 @@
-- Hi, my name is Tram or you can call me @HelenDao1501 ^ ^
+- Hi, my name is Tram- Dao or you can call me Helen ^ ^
 - 👀 You can know me as a Tester, Front-end Dev. I’m currently learning about Software Engineer and Information System (IS).
 - I'm also an amateur Designer, Content Creator or sometimes being a "night owl" girl.
 - ✨ Interest in drawing, cooking, and doing something new.
