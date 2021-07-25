@@ -6,7 +6,7 @@
 - 💤 I'm also an amateur Designer, Content Creator, or being a "night owl" girl.
 - ✨ Interest in drawing, coding(sometimes) cooking, and doing something new.
 
-## :postbox: For more information contact me via: 	
+## For more information contact me via: 	
   - **LinkedIn:** [Tram Dao](www.linkedin.com/in/helen-dao)
   - **Facebook:** [Bảo Trâm](https://www.facebook.com/bao.tram.1501/)
 
