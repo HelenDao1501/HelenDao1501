@@ -10,17 +10,7 @@
   - **LinkedIn:** [Tram Dao](www.linkedin.com/in/helen-dao)
   - **Facebook:** [Bảo Trâm](https://www.facebook.com/bao.tram.1501/)
 
-
-
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helendao1501&hide=contribs,prs&theme=midnight-purple" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helendao1501&layout=compact&langs_count=6&custom_title=Mostly%20used" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helendao1501&hide=contribs,prs&theme=midnight-purple) 
 
 ###### Grateful for your concern. Hope you're all safe and cheerful 😉 
 
