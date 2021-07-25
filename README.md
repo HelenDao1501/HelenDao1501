@@ -12,8 +12,6 @@
 
 ###### Grateful for your concern. Hope you're all safe and cheerful 😉 
 
-![counter](https://enemo786q3svfle.m.pipedream.net)
-
 &copy; 2021 trambdao
 
 <!---
