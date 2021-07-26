@@ -7,7 +7,7 @@
 - ✨ Interest in drawing, coding(sometimes) cooking, and doing something new.
 
 ## For more information contact me via: 	
-  - **LinkedIn:** [Tram Dao](www.linkedin.com/in/helen-dao)
+  - **LinkedIn:** [Tram Dao](https://www.linkedin.com/in/helen-dao)
   - **Facebook:** [Bảo Trâm](https://www.facebook.com/bao.tram.1501/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helendao1501&hide=contribs,prs&theme=midnight-purple) 
