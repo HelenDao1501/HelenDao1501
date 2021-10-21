@@ -1,6 +1,6 @@
 ## About me:
 
-- Hi, my name is **Tram- Dao** or **Helen Dao** ^ ^
+- Hi, my name is **Tram- Dao** - **Helen Dao** ^ ^
 - I'm currently learning about Software Engineer at **FPTU.HCMC**
 - I'm also an amateur Designer, Content Creator, or being a "night owl" girl 💤
 
