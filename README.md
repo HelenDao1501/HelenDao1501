@@ -8,7 +8,7 @@
   - **LinkedIn:** [Tram Dao](https://www.linkedin.com/in/helen-dao)
   - **Email:** tramdb1501@gmail.com
 
-###### Grateful for your concern. Hope you're all safe and cheerful 😉 
+###### Hope you're all safe and cheerful
 
 &copy; 2021 trambdao
 
