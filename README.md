@@ -10,7 +10,7 @@
 
 ###### Hope you're all safe and cheerful
 
-&copy; 2021 trambdao
+&copy; 2021 tramdb
 
 <!---
 HelenDao1501/HelenDao1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
