@@ -1,18 +1,17 @@
-## About me:
+### Hi there ^ ^ Its Henlen
 
-- Hi, my name is **Tram- Dao** (**Helen Dao**) ^ ^
-- I'm currently learning about Software Engineer at **FPTU.HCMC**
-- I'm also an amateur Designer, Content Creator, or being a "night owl" girl 💤
+- ✨ I'm currently learning about Software Engineer at **FPTU.HCMC**
+- 🍑 I'm also being a "night owl" girl 💤
+- ⚡️ Daily use:`.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`,  `.xd`
 
-## For more information contact me via: 	
-  - **LinkedIn:** [Tram Dao](https://www.linkedin.com/in/helen-dao)
-  - **Email:** tramdb1501@gmail.com
 
-###### Hope you're all safe and cheerful
+## For more info: 	
 
-&copy; 2021 tramdb
+- **LinkedIn:** [Tram Dao](https://www.linkedin.com/in/helen-dao)
+- **Email:** tramdb1501@gmail.com
 
 <!---
 HelenDao1501/HelenDao1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+&copy; 2022 tramdb
