@@ -5,7 +5,7 @@
    - 🎓I'm an undergraduate student at **FPTU.HCMC**
    - ⚡️I'm currently learning ReactJs
    - 🍑I'm also being a "night owl" girl 💤
-   - ✨Usably `.js` `.html` `.css` `.svg` `.psd` `.ai`  `.xd`
+   - ✨Usably `.js` `.html` `.css` `.svg` `.ai`  `.xd`
    <a href="mailto:tramdb1501@gmail.com">
  <img align="left" alt="Helen's Gmail" width="70px" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /></a>
 &copy; 2022 tramdb
