@@ -6,6 +6,6 @@
    -   🎓 I'm an undergraduate Software Engineering student at **FPTU.HCMC**
    -   🍑 I'm also being a "night owl" girl 💤
    -   ✨ Usably `.jsx` `.js` `.html` `.scss` `.svg` `.ai` `.xd` `.fig`
-   -   ⚡️ Connect me: [e-mail](mailto:tramdb1501@gmail.com)
+   -   ⚡️ Connect me: [tramdb1501](mailto:tramdb1501@gmail.com)
 
 ***
