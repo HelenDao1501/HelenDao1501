@@ -5,7 +5,7 @@
 
    -   🎓 I'm an undergraduate Software Engineering student
    -   🍑 I'm also being a "night owl" girl 💤
-   -   ✨ Usably `.jsx` `.js` `.html` `.scss` `.svg` `.ai` `.xd` `.fig`
+   -   ✨ Usably `.jsx` `.js` `.scss` `.svg` `.ai` `.xd` `.fig`
    -   ⚡️ Connect me: [tramdb1501](mailto:tramdb1501@gmail.com)
 
 ***
