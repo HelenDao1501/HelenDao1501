@@ -4,7 +4,7 @@
 <h4>My name is Bao Tram</h4> 
 
    -   🍑 I'm also being a "night owl" girl 💤
-   -   ✨ Usably `.jsx` `.scss` `.svg` `.ai` `.fig`
+   -   ✨ Usably `.ts` `.scss` `.svg` `.ai` `.fig`
    -   ⚡️ Connect me: [tramdb1501](mailto:tramdb1501@gmail.com)
 
 ***
