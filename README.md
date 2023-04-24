@@ -1,9 +1,9 @@
 
 <h3>Hi there :>
 
-<h4>Bao Tram - Helen</h4> 
+<h4>Bao Tram - Helen</h4> 🍑
 
-   -   🍑 I'm also being a "night owl" girl 💤
+   -   💤 I'm also being a "night owl" girl 
    -   ✨ Usably `.jsx` `.scss` `.js` `.ai` `.fig`
 ***
 </h3> 
