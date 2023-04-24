@@ -1,7 +1,7 @@
 
-<h3>Hi there :>
 
-<h4>Bao Tram - Helen 🍑</h4> 
+
+Hi there i'm <h4>Bao Tram - Helen 🍑</h4> 
 
    -   💤 I'm also being a "night owl" girl 
    -   ✨ Usably `.jsx` `.scss` `.js` `.ai` `.fig`
